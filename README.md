@@ -7,16 +7,16 @@
 
 - Monday
   - 10:00 - [COMP1236](https://learn.georgebrown.ca/d2l/home/416378)
-  - 13:00 - COMP1238
-  - 16:00 - COMP1151
+  - 13:00 - [COMP1238](https://learn.georgebrown.ca/d2l/home/412494)
+  - 16:00 - [COMP1151](https://learn.georgebrown.ca/d2l/home/408347)
 - Tuesday
-  - 11:00 - MATH1162
-  - 16:00 - COMP1234
+  - 11:00 - [MATH1162](https://learn.georgebrown.ca/d2l/home/405827)
+  - 16:00 - [COMP1234](https://learn.georgebrown.ca/d2l/home/416183)
 - Wednesday
-  - 09:00 - COMP1236
+  - 09:00 - [COMP1236](https://learn.georgebrown.ca/d2l/home/416378)
 - Thursday
-  - 10:00 - MATH1162
-  - 14:00 - COMP1234
+  - 10:00 - [MATH1162](https://learn.georgebrown.ca/d2l/home/405827)
+  - 14:00 - [COMP1234](https://learn.georgebrown.ca/d2l/home/416183)
 - Friday
-  - 12:00 - COMP1238
-  - 15:00 - COMP1151  
+  - 12:00 - [COMP1238](https://learn.georgebrown.ca/d2l/home/412494)
+  - 15:00 - [COMP1151](https://learn.georgebrown.ca/d2l/home/408347)  
