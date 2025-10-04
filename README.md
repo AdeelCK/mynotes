@@ -6,7 +6,7 @@
 - [COMP1238](comp1238.md)
 
 - Monday
-  - 10:00 - COMP1236
+  - 10:00 - [COMP1236](https://learn.georgebrown.ca/d2l/home/416378)
   - 13:00 - COMP1238
   - 16:00 - COMP1151
 - Tuesday
